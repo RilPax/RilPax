@@ -19,7 +19,7 @@
 
 Ссылки для связи со мной:
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Fi_fate)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Fi_fate)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:normuminovruslan620@gmail.com)
 
 Сейчас я в поиске работы, вот мое резюме: [ссылка](https://disk.yandex.ru/d/CN8WFaUOJ0Mj4g)
